@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1027676319349",
+    "project_id": "pitazo-app",
+    "storage_bucket": "pitazo-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1027676319349:android:e68a239eb6f5e6a69a923c",
+        "android_client_info": {
+          "package_name": "com.globalappsuite.pitazo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCknlnOtToY1k6fc-r89iU3qnZt9EdQEi0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
